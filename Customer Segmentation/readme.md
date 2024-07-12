@@ -6,7 +6,7 @@
     group customers into distinct segments. This segmentation can inform targeted marketing
     strategies, improve customer satisfaction, and enhance overall business strategies.
 
-## Dataset Link:- https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation 
+## Dataset Link:- https://www.kaggle.com/code/analystoleksandra/marketing-analytics-customer-segmentation/input?select=ifood_df.csv
 
 ## Key Concepts and Challenges:
 
